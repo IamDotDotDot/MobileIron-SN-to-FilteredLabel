@@ -11,6 +11,7 @@ Output:
 
 Preview of using the script:
 
+```
 **Program Start**
 
 This program will extract any iOS serial numbers from unwanted characters and format it for filtered labels.
@@ -26,3 +27,4 @@ Paste jumbled text here: ("common.SerialNumber" =  "GG7C2RQXMF3M"  OR"common.Ser
 Hit "Enter" to close:
 
 **Program End**
+```
